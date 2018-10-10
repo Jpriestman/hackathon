@@ -7,17 +7,19 @@
     <title>Foundation for Sites</title>
     <link rel="stylesheet" href="css/foundation.css">
     <link rel="stylesheet" href="css/main.css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
   </head>
   <body>
     <header>
-      <div class="title-bar" data-responsive-toggle="main-menu" data-hide-for="medium">
+      <div class="title-bar" data-responsive-toggle="main-menu" data-hide-for="large">
         <button class="menu-icon columns" type="button" data-toggle="main-menu"></button>
         <div class="title-bar-title columns text-center">HouseCom</div>
       </div>
 
       <nav id="main-menu" class="row">  
           <h2 class="hidden" style="display:none">Navigation</h2>
-        <ul id="menu" class="menu vertical medium-horizontal text-center expanded columns small-12">
+        <ul id="menu" class="menu vertical large-horizontal text-center expanded columns small-12">
           <li class="columns small-12"><a href="#home">HOME</a></li>
           <li class="columns small-12"><a href="#about">ABOUT</a></li>
           <li class="columns small-12"><a href="#work">WORK</a></li>
@@ -25,14 +27,17 @@
         </ul>  
       </nav>
     </header>
+
   <section class="row">
-    <img src="" class="columns small-12" alt="promoimage">
+    <img src="" class="columns small-12 medium-10 medium-centered" alt="promoimage">
   </section>
     <section class="row">
-      <h2 class="columns small-12">Title</h2>
-      <p class="columns small-12">text goes here</p>
+      <h2 class="columns small-12 medium-12">Title</h2>
+      <p class="columns small-12 medium-12">text goes herfg fgfgb fgb cgbcgb c ccx gbcgcbvcbcgbgc  g bg bhf g  g f hb ghbg    gh fg h fghf gh fg h
+      df gdf g gch g hfg hfh fg hfghfg hgfccx gbcgcbvcbcgbgc  g bg bhf g  g f hb ghbg    gh fg h fghf gh fg h
+      df gdf g gch g hfg hfh fg hfghfg hgfccx gbe</p>
       <!-- buttons -->
-      <div class="columns small-10 small-centered">
+      <div class="columns small-10 medium-10 small-centered">
         <input type="button" class="columns small-4 small-offset-1 button" value="Register">
         <input type="button" class="columns small-4 button small-offset-2" value="Discover">
       </div>
@@ -42,7 +47,9 @@
       <h2 class="columns small-12  text-center">Working functions</h2>
       <p class="columns small-12  text-center">Lorem dolor khjsfdjsdnjkns sf df </p>
       <div class="columns small-10 small-centered">
-        <img src="" class="columns small-12" alt="promoimage">
+        <img src="" class="columns small-12 medium-4" alt="promoimage">
+        <img src="" class="columns small-12 medium-4 hide-for-small-only" alt="promoimage">
+        <img src="" class="columns small-12 medium-4 hide-for-small-only" alt="promoimage">
         <h3 class="columns small-12 text-center">Environment control system</h3>
         <p class="columns small-12 text-center">Lorm iso d dgrd sdf d dfz</p>
     </div>
