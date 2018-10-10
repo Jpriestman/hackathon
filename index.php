@@ -12,7 +12,7 @@
     <header>
       <div class="title-bar" data-responsive-toggle="main-menu" data-hide-for="medium">
         <button class="menu-icon columns" type="button" data-toggle="main-menu"></button>
-        <div class="title-bar-title columns text-center"><label id="projectName" class="columns small-12 centered">Agency X</label></div>
+        <div class="title-bar-title columns text-center">HouseCom</div>
       </div>
 
       <nav id="main-menu" class="row">  
@@ -25,7 +25,9 @@
         </ul>  
       </nav>
     </header>
-
+  <section class="row">
+    <img src="" class="columns small-12" alt="promoimage">
+  </section>
     <section class="row">
       <h2 class="columns small-12">Title</h2>
       <p class="columns small-12">text goes here</p>
