@@ -8,7 +8,7 @@ control system. Any user can easily find our website by just typing ThermoSecure
 
 [Who maintains/contributed to the project]
 
-The main designer is Jordan Thomas Priestman, and was assisted by Apurav Chugh and Blake Hause in the creation of the all the designs on the website. The main developer is Abhi Patel, and was assisted by Blake Hause. The 3D modeler is Maksym Pashchenko, and was assisted by Abhishek Patel and Apurav Chugh.
+The main designer is Jordan Thomas Priestman, and was assisted by Apurav Chugh and Blake Hause in the creation of the all the designs on the website. The main developer is Abhisheck Patel, and was assisted by Blake Hause. The 3D modeler is Maksym Pashchenko, and was assisted by Abhishek Patel and Apurav Chugh.
 
 [How to download]
 
