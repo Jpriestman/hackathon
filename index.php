@@ -31,7 +31,7 @@
   <section class="row">
     <img src="" class="columns small-12 medium-10 medium-centered" alt="promoimage">
   </section>
-    <section class="row">
+    <section class="row large-5">
       <h2 class="columns small-12 medium-12">Title</h2>
       <p class="columns small-12 medium-12">text goes herfg fgfgb fgb cgbcgb c ccx gbcgcbvcbcgbgc  g bg bhf g  g f hb ghbg    gh fg h fghf gh fg h
       df gdf g gch g hfg hfh fg hfghfg hgfccx gbcgcbvcbcgbgc  g bg bhf g  g f hb ghbg    gh fg h fghf gh fg h
@@ -54,28 +54,30 @@
     </section>
 
   <section class="row">
-    <h2 class="columns small-12 text-center"> How It Works</h2>
-    <p class="columns small-12 text-center">jhgab jhgb jh bjhg bjyg bh</p>
-    <img class="columns small-8 small-centered" src="" alt="mobileview">
-    <div class="row">
-      <img src="" class="columns small-2" alt="register">
-      <div class="columns small-10">
-        <h3 class="columns small-12">Register</h3>
-        <p class="columns small-12">dg gtd hgfg hf gh fcghfg </p>
+    <h2 class="columns small-12 medium-12 text-center"> How It Works</h2>
+    <p class="columns small-12 medium-12 text-center">jhgab jhgb jh bjhg bjyg bh</p>
+    <img class="columns small-8 medium-4 small-centered" src="" alt="mobileview">
+    <div class="columns medium-8">
+      <div class="row">
+        <img src="" class="columns small-2" alt="register">
+        <div class="columns small-10">
+          <h3 class="columns small-12">Register</h3>
+          <p class="columns small-12">dg gtd hgfg hf gh fcghfg </p>
+        </div>
       </div>
-    </div>
-    <div class="row">
-      <img src="" class="columns small-2" alt="Setup">
-      <div class="columns small-10">
-        <h3 class="columns small-12">Set Up</h3>
-        <p class="columns small-12">dg gtd hgfg hf gh fcghfg </p>
+      <div class="row">
+        <img src="" class="columns small-2" alt="Setup">
+        <div class="columns small-10">
+          <h3 class="columns small-12">Set Up</h3>
+          <p class="columns small-12">dg gtd hgfg hf gh fcghfg </p>
+        </div>
       </div>
-    </div>
-    <div class="row">
-      <img src="" class="columns small-2" alt="control">
-      <div class="columns small-10">
-        <h3 class="columns small-12">control</h3>
-        <p class="columns small-12">dg gtd hgfg hf gh fcghfg </p>
+      <div class="row">
+        <img src="" class="columns small-2" alt="control">
+        <div class="columns small-10">
+          <h3 class="columns small-12">control</h3>
+          <p class="columns small-12">dg gtd hgfg hf gh fcghfg </p>
+        </div>
       </div>
     </div>
   </section>
@@ -87,6 +89,7 @@
       df gdf g gch g hfg hfh fg hfghfg hgfccx gbcgcbvcbcgbgc  g bg bhf g  g f hb ghbg    gh fg h fghf gh fg h
       df gdf g gch g hfg hfh fg hfghfg hgfg</p>
     <input class="columns button small-3" value="Discover >">
+    <img src="" class="columns small-12" alt="menageimg">
   </section>
 
 
@@ -97,6 +100,7 @@
       df gdf g gch g hfg hfh fg hfghfg hgfccx gbcgcbvcbcgbgc  g bg bhf g  g f hb ghbg    gh fg h fghf gh fg h
       df gdf g gch g hfg hfh fg hfghfg hgfg</p>
     <input class="columns button small-3" value="Discover >">
+    <img src="" class="columns small-12" alt="usefromanywhere">
   </section>
 
   <section class="row">
@@ -105,7 +109,6 @@
       df gdf g gch g hfg hfh fg hfghfg hgfccx gbcgcbvcbcgbgc  g bg bhf g  g f hb ghbg    gh fg h fghf gh fg h
       df gdf g gch g hfg hfh fg hfghfg hgfccx gbcgcbvcbcgbgc  g bg bhf g  g f hb ghbg    gh fg h fghf gh fg h
       df gdf g gch g hfg hfh fg hfghfg hgfg</p>
-    <input class="columns button small-3" value="Discover >">
   </section>
 
   <section class="row">
