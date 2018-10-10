@@ -1,5 +1,17 @@
 @import '_vars';
 
-header {
-    color: $header-color;
+body {
+    font-family: $main-font;
+    color: $body-color;
+    background-color: $body-bgcolor;
+}
+
+h2 {
+    font-family: $title-font;
+    color: $title-font-color;
+}
+
+h3 {
+    font-family: $title-font;
+    color: $title-font-color;
 }
