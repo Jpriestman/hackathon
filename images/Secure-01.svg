@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 72 72" style="enable-background:new 0 0 72 72;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#333333;}
+	.st1{fill:#FFFFFF;}
+	.st2{clip-path:url(#SVGID_2_);fill:#283B8E;}
+	.st3{clip-path:url(#SVGID_2_);fill:#333333;}
+	.st4{clip-path:url(#SVGID_2_);fill:#BA2025;}
+	.st5{clip-path:url(#SVGID_2_);fill:#FFFFFF;}
+</style>
+<rect x="1.6" y="2.4" class="st0" width="69.7" height="10.5"/>
+<rect x="3" y="3.8" class="st0" width="67" height="7.8"/>
+<rect x="4.3" y="5.1" class="st1" width="64.3" height="5.1"/>
+<rect x="6" y="6.3" class="st0" width="2.5" height="2.7"/>
+<rect x="10.4" y="6.3" class="st0" width="2.5" height="2.7"/>
+<rect x="14.8" y="6.3" class="st0" width="2.5" height="2.7"/>
+<polygon class="st0" points="1.6,10.2 1.6,49.3 14.1,49.3 14.1,46.6 4.3,46.6 4.3,13 68.6,13 68.6,46.6 58.8,46.6 58.8,49.3 
+	71.3,49.3 71.3,10.2 "/>
+<rect x="7" y="15.7" class="st0" width="58.8" height="28.2"/>
+<g>
+	<defs>
+		<rect id="SVGID_1_" x="1.6" y="2.4" width="69.7" height="66.6"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<path class="st2" d="M47.1,32c-4.5-0.8-8.3-2.7-10.7-5.1c-2.4,2.3-6.2,4.2-10.7,5.1c-2.8,0.5-5.5,0.6-7.9,0.2v15.3
+		c0,11.8,7.9,16.9,18.6,20c10.7-3.1,18.6-8.3,18.6-20V32.2C52.7,32.6,49.9,32.6,47.1,32"/>
+	<path class="st3" d="M36.5,69l-0.4-0.1c-9.1-2.7-19.6-7.5-19.6-21.4V30.6l1.6,0.2c2.3,0.4,4.9,0.3,7.5-0.2c4.1-0.8,7.7-2.5,10-4.7
+		l1-0.9l1,0.9c2.3,2.2,5.9,3.9,10,4.7c2.6,0.5,5.1,0.5,7.5,0.2l1.6-0.2v16.9c0,13.9-10.5,18.7-19.6,21.4L36.5,69z"/>
+	<path class="st4" d="M19.2,33.8v13.8c0,9.4,5.2,15,17.2,18.6c12.1-3.6,17.2-9.2,17.2-18.6V33.8c-2.2,0.2-4.5,0.1-6.8-0.4
+		c-4.1-0.8-7.8-2.4-10.4-4.6c-2.6,2.2-6.4,3.8-10.4,4.6C23.7,33.8,21.4,33.9,19.2,33.8"/>
+	<path class="st5" d="M43.9,46.9c0,4.1-3.4,7.5-7.5,7.5c-4.1,0-7.5-3.3-7.5-7.5c0-4.1,3.4-7.5,7.5-7.5
+		C40.6,39.4,43.9,42.7,43.9,46.9"/>
+	<polyline class="st5" points="39.6,44 35.8,48.8 33.3,47.2 	"/>
+	<polygon class="st3" points="36.1,50.7 32.5,48.4 34,46.1 35.5,47 38.6,43.2 40.7,44.9 	"/>
+</g>
+</svg>
