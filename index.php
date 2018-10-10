@@ -47,9 +47,7 @@
       <h2 class="columns small-12  text-center">Working functions</h2>
       <p class="columns small-12  text-center">Lorem dolor khjsfdjsdnjkns sf df </p>
       <div class="columns small-10 small-centered">
-        <img src="" class="columns small-12 medium-4" alt="promoimage">
-        <img src="" class="columns small-12 medium-4 hide-for-small-only" alt="promoimage">
-        <img src="" class="columns small-12 medium-4 hide-for-small-only" alt="promoimage">
+        <img src="" class="columns small-12 medium-4" alt="promoimage">        
         <h3 class="columns small-12 text-center">Environment control system</h3>
         <p class="columns small-12 text-center">Lorm iso d dgrd sdf d dfz</p>
     </div>
@@ -116,7 +114,7 @@
       <p class="columns small-12">gfgb fgb cgbcgb c ccx gbcgcbvcbcgbgc  g bg bhf g  g f hb ghbg    gh fg h fghf gh fg h
       df gdf g gch g hfg hfh fg hfghfg hgfccx gbcgcbvcbcgbgc  g bg bhf g  g f hb ghbg    gh fg h fghf gh fg h
       df gdf g gch g hfg hfh fg hfghfg hgfccx gbcgcbvcbcgbgc  g bg bhf g  g f</p>
-      <div class="columns small-12">
+      <div class="subscribe columns small-12">
         <input type="text" class="columns small-8" placeholder="Enter Your Email Address ....">
         <input type="submit" class="columns small-4 button" value="Subscribe">
       </div>
