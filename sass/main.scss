@@ -21,6 +21,18 @@ h3 {
 #hamburger{
     color: black;
 }
+.menu li a{
+    font-weight: bold;
+    color: $button-bgcolor;
+}
+.menu li:hover{
+    background-color: $button-bgcolor;
+    border-radius: 
+    
+}
+.menu li a:hover{
+    color: $button-hover-bgcolor;
+}
 .button {
     background-color: $button-bgcolor;
     color: $button-hover-bgcolor;
